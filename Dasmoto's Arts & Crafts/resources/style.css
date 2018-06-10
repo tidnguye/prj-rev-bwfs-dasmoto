@@ -1,0 +1,34 @@
+.Desmoto{
+  font-family: helvetica;
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  font-align: right;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+h4{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+h5{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+.price{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
